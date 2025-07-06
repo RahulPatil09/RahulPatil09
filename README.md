@@ -2,7 +2,7 @@
 # 💫 About Me:    <h2>🙋‍♂️ Hii Buddy, My Name is Rahul.😎<h2>
 <img align="right" alt="coding" width="295"  src="https://camo.githubusercontent.com/6b5292ea3673e5b1501779d8d87da4f8e4afc8c27f9cb25253a6a3801c74a905/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067">
 
-- 🌱 Currently learning **Frontend Development**<br>- 💻 Comfortable with **HTML**, **CSS**, **JavaScript**, and **React**<br>- 🎯 Focused on improving UI/UX and responsive design skills<br>- 🧠 Always curious to learn new tools, frameworks, and best practices<br>- 🚀 Working on personal projects to sharpen my skills<br>- 💬 Open to collaborate on frontend-based projects<br>- 📫 You can reach me on [rahulpatil6451@gmail.com/ [linkedin.com/in/rahulpatil6451]]
+-🌱 Currently learning **Frontend Development**<br>- 💻 Comfortable with **HTML**, **CSS**, **JavaScript**, and **React**<br>- 🎯 Focused on improving UI/UX and responsive design skills<br>- 🧠 Always curious to learn new tools, frameworks, and best practices<br>- 🚀 Working on personal projects to sharpen my skills<br>- 💬 Open to collaborate on frontend-based projects<br>- 📫 You can reach me on [rahulpatil6451@gmail.com/ [linkedin.com/in/rahulpatil6451]]
 
 
 ## 🌐 Socials:
