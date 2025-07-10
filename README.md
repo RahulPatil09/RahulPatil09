@@ -15,6 +15,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RahulPatil09&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPatil09&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://leetcard.jacoblin.cool/rahulpatil_09?ext=heatmap)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RahulPatil09&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
