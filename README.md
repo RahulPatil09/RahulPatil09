@@ -18,7 +18,7 @@
 </td>
 
 <td width="40%">
-<img src="https://raw.githubusercontent.com/RahulPatil09/RahulPatil09/main/coding.gif" width="100%">
+<img src="https://github.com/rudrabarad/Gifs" width="100%">
 </td>
 
 </tr>
