@@ -1,5 +1,30 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RahulPatil09/RahulPatil09/main/banner.webp" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Rahul Patil</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React.js | Problem Solver</h3>
+
+---
+
+<table>
+<tr>
+<td width="60%">
+
 # 💫 About Me:
 🔭 Currently working on Java Full Stack Development projects using Spring Boot and React.js.<br><br>🌱 Learning advanced backend architecture, system design, and cloud deployment.<br><br>💡 Interested in Software Development, Backend Engineering, and Full Stack Development.<br><br>📈 Solved 100+ coding problems and continuously improving problem-solving skills.
+
+</td>
+
+<td width="40%">
+<img src="https://raw.githubusercontent.com/RahulPatil09/RahulPatil09/main/coding.gif" width="100%">
+</td>
+
+</tr>
+</table>
+
+---
 
 
 ## 🌐 Socials:
