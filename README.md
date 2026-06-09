@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.magnific.com/free-vector/software-developer-typographic-header-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code-isolated-vector-illustration_613284-1446.jpg" alt="Banner" width="100%">
+  <img src="https://img.magnific.com/premium-vector/developer-typographic-header_277904-8831.jpg?semt=ais_hybrid&w=740&q=80" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul Patil</h1>
